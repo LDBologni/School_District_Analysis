@@ -81,7 +81,7 @@ As is shown in the previous tables, the data has been impacted by removing the 9
 - Average Reading score increased **0.14**
 - Percentage passing Math dropped **26.36%**
 - Percentage passing Reading dropped **27.64%**
-- Percentage overall passing dropped **25.87**
+- Percentage overall passing dropped **25.87%**
 
 ### Thomas High School’s performance vs the other schools
 
@@ -89,9 +89,9 @@ As is shown in the previous tables, the data has been impacted by removing the 9
 
 As the table shows the Thomas High School has the lowest % Passing in Math, Reading and Overall in all schools in the district:
 
-- Percentage Math passing **66.911315%
-- Percentage Reading passing **69.663609%	
-- Overall Percentage **65.076453%
+- Percentage Math passing **66.911315%**
+- Percentage Reading passing **69.663609%	**
+- Overall Percentage **65.076453%**
 
 ### By Replacing the Grades
 
@@ -115,11 +115,11 @@ Thomas High School falls in the spending range of $630-$644
 
 ####  Scores by school size
 
--Before 
+Before 
 
 ![Math_scores_by_size_before](https://user-images.githubusercontent.com/98929742/158096722-a5d629de-54cc-4fbf-9fd3-b333bacb1b58.JPG)
 
-- After
+After
 
 ![Math_scores_by_size](https://user-images.githubusercontent.com/98929742/158096737-3c67b067-174a-4044-8333-4a8807d4a88e.JPG)
 
@@ -127,11 +127,11 @@ Thomas High School falls in the spending range of $630-$644
 
 #### Scores by school type
 
--Before 
+Before 
 
 ![Math_scores_by_type_before](https://user-images.githubusercontent.com/98929742/158096753-6a09b912-6620-4262-b8fb-2b3d9c62ed83.JPG)
 
--After
+After
 
 ![Math_scores_by_type](https://user-images.githubusercontent.com/98929742/158096854-6a5ec67c-3d5e-450f-9ab5-04a0d2d8c90e.JPG)
 
