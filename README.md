@@ -93,7 +93,7 @@ As is shown in the previous tables, the data has been impacted by removing the 9
 
 ![After_NaN_School_Summary_DF](https://user-images.githubusercontent.com/98929742/158091145-f04c84ca-1e09-494b-9a10-f24286074a0d.JPG)
 
-As the table shows the Thomas High School has the lowest % Passing in Math, Reading and Overall in all schools in the district:
+As the table shows the Thomas High School has dropped in % Passing in Math, Reading and Overall:
 
 - Percentage Math passing **66.911315%**
 - Percentage Reading passing **69.663609%**
@@ -158,10 +158,10 @@ Due to the potential academic dishonesty of the 9th grade students at Thomas Hig
 
 -Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses
 
--Lowest overall passing percentage
+-8th in overall passing percentage
 
--Lowest math passing percentage
+-9th in math passing percentage
 
--Lowest reading passing percentage
+-Lowest in reading passing percentage
 
 
