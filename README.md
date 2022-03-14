@@ -45,7 +45,7 @@ For this part of the project, the analysis was done by using the loc method, to 
 ## Deliverable 2
 
 
-### The district summary
+### The District summary
 
 Results including the 9th grade scores
 
@@ -67,7 +67,7 @@ Variances:
 - Overall Percentage (**-0.01%**) After adjusting
 
 
-### The school summary
+### The School summary
 
 
 #### Original Analysis
