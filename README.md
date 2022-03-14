@@ -154,14 +154,14 @@ After Adjusting
 
 Due to the potential academic dishonesty of the 9th grade students at Thomas High School, a full dataset had to be removed, resulting in an altered data set with the following results:
 
--The overall passing percentage for Thomas High School dramatically dropped from 91% to 65%.
+- The overall passing percentage for Thomas High School dramatically dropped from 91% to 65%.
 
--Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses
+- Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses
 
--8th in overall passing percentage
+- 8th in overall passing percentage
 
--9th in math passing percentage
+- 9th in math passing percentage
 
--Lowest in reading passing percentage
+- Lowest in reading passing percentage
 
 
