@@ -57,9 +57,32 @@ As is shown from the table, the data from The Thomas High School 9th grade score
 
 Variances:
 
--
+- Average Math score (**-0.1**) After adjusting
+- Average Reading score
+- Percentage Passing Math (**-0.02%**) After adjusting
+- Percentage Passing reading (**-0.03%**) After adjusting
+- Overall Percentage (**#-0.01%**) After adjusting
 
 ### The school summary
+
+#### Original Analysis
+
+![Before_NaN_School_Summary_DF](https://user-images.githubusercontent.com/98929742/158089519-57b55cb3-7827-45c2-871e-a1600c836ca8.JPG)
+
+
+#### Adjusted Analysis
+
+![After_NaN_School_Summary_DF](https://user-images.githubusercontent.com/98929742/158091145-f04c84ca-1e09-494b-9a10-f24286074a0d.JPG)
+
+
+As is shown in the previous tables, the data has been impacted by removing the 9th grade test result to
+
+- Average Math score dropped **0.06**
+- Average Reading score increased **0.14**
+- Percentage passing Math dropped **26.36%**
+- Percentage passing Reading dropped **27.64%**
+- Percentage overall passing dropped **25.87**
+
 
 
 
