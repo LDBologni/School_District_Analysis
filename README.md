@@ -90,7 +90,7 @@ As is shown in the previous tables, the data has been impacted by removing the 9
 As the table shows the Thomas High School has the lowest % Passing in Math, Reading and Overall in all schools in the district:
 
 - Percentage Math passing **66.911315%**
-- Percentage Reading passing **69.663609%	**
+- Percentage Reading passing **69.663609%**
 - Overall Percentage **65.076453%**
 
 ### By Replacing the Grades
@@ -98,9 +98,11 @@ As the table shows the Thomas High School has the lowest % Passing in Math, Read
 #### Math and reading scores by grade after replacing the grades
 
 - Math Averages
+
 ![After_Nan_School_Averages_Math](https://user-images.githubusercontent.com/98929742/158095358-f49d7407-6efc-4646-81c6-76fda529d54b.JPG)
 
 - Reading Averages
+
 ![After_Nan_School_Averages_Reading](https://user-images.githubusercontent.com/98929742/158095349-e7ec5e15-d099-44ed-8698-c147cf519e38.JPG) 
 
 In the original analysis, Thomas High School had  for the 9th grade scores an average for Math of 83.6  and for reading an average 83.7. Now the scores have been replaced with NaN,as is shown in the previous tables.
@@ -115,11 +117,11 @@ Thomas High School falls in the spending range of $630-$644
 
 ####  Scores by school size
 
-Before 
+Before Adjusting
 
 ![Math_scores_by_size_before](https://user-images.githubusercontent.com/98929742/158096722-a5d629de-54cc-4fbf-9fd3-b333bacb1b58.JPG)
 
-After
+After Adjusting
 
 ![Math_scores_by_size](https://user-images.githubusercontent.com/98929742/158096737-3c67b067-174a-4044-8333-4a8807d4a88e.JPG)
 
@@ -127,11 +129,11 @@ After
 
 #### Scores by school type
 
-Before 
+Before Adjusting
 
 ![Math_scores_by_type_before](https://user-images.githubusercontent.com/98929742/158096753-6a09b912-6620-4262-b8fb-2b3d9c62ed83.JPG)
 
-After
+After Adjusting
 
 ![Math_scores_by_type](https://user-images.githubusercontent.com/98929742/158096854-6a5ec67c-3d5e-450f-9ab5-04a0d2d8c90e.JPG)
 
