@@ -95,21 +95,53 @@ As the table shows the Thomas High School has the lowest % Passing in Math, Read
 
 ### By Replacing the Grades
 
-Math and reading scores by grade
+#### Math and reading scores by grade after replacing the grades
 
-![After_Nan_School_Averages_Reading](https://user-images.githubusercontent.com/98929742/158095349-e7ec5e15-d099-44ed-8698-c147cf519e38.JPG) ![After_Nan_School_Averages_Math](https://user-images.githubusercontent.com/98929742/158095358-f49d7407-6efc-4646-81c6-76fda529d54b.JPG)
+- Math Averages
+![After_Nan_School_Averages_Math](https://user-images.githubusercontent.com/98929742/158095358-f49d7407-6efc-4646-81c6-76fda529d54b.JPG)
+
+- Reading Averages
+![After_Nan_School_Averages_Reading](https://user-images.githubusercontent.com/98929742/158095349-e7ec5e15-d099-44ed-8698-c147cf519e38.JPG) 
+
+In the original analysis, Thomas High School had  for the 9th grade scores an average for Math of 83.6  and for reading an average 83.7. Now the scores have been replaced with NaN,as is shown in the previous tables.
+
+#### Scores by school spending
+
+![Table_of_schools_by_spending](https://user-images.githubusercontent.com/98929742/158096181-b2159e00-25d3-47d1-bf32-b929628fe9d2.JPG)
+
+![Table_of_schools_by_spending_math](https://user-images.githubusercontent.com/98929742/158096190-7c22daf3-d6fe-47f1-9b93-eb23c4d5c40e.JPG)
+
+Thomas High School falls in the spending range of $630-$644
+
+####  Scores by school size
+
+-Before 
+
+![Math_scores_by_size_before](https://user-images.githubusercontent.com/98929742/158096722-a5d629de-54cc-4fbf-9fd3-b333bacb1b58.JPG)
+
+- After
+
+![Math_scores_by_size](https://user-images.githubusercontent.com/98929742/158096737-3c67b067-174a-4044-8333-4a8807d4a88e.JPG)
 
 
 
-Scores by school spending
-Scores by school size
-Scores by school type
+#### Scores by school type
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+-Before 
+
+![Math_scores_by_type_before](https://user-images.githubusercontent.com/98929742/158096753-6a09b912-6620-4262-b8fb-2b3d9c62ed83.JPG)
+
+-After
+
+![Math_scores_by_type](https://user-images.githubusercontent.com/98929742/158096854-6a5ec67c-3d5e-450f-9ab5-04a0d2d8c90e.JPG)
 
 
+## Summary
 
 
+Unfortunately, it is not possible to determine the extent of the potential academic dishonesty or identify soecific indivuals to exclude from the dataset. As a consequence of this, the entire ninth grade of students from Thomas High School have had their scores omitted from the results. This is a suboptimal situation because a full set of data is ideal for creating the most accurate results.
+
+Replacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to plummet. The district as a whole has also had its average math and reading scores decrease, as well as the overall passing percentage for students. Furthermore, Thomas High School lost its placement as a top five school within this District. However, after updating the total student counts to exclude the Thomas High School ninth graders and omitting their scores from the dataset, Thomas High School regained its high average scores and retained its position as the number two school in the District. To view the full script, please open PyCitySchools_Challenge.ipynb in Jupyter Notebook.
 
 
 
