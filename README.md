@@ -58,10 +58,10 @@ As is shown from the table, the data from The Thomas High School 9th grade score
 Variances:
 
 - Average Math score (**-0.1**) After adjusting
-- Average Reading score
+- Average Reading score same as before
 - Percentage Passing Math (**-0.02%**) After adjusting
 - Percentage Passing reading (**-0.03%**) After adjusting
-- Overall Percentage (**#-0.01%**) After adjusting
+- Overall Percentage (**-0.01%**) After adjusting
 
 ### The school summary
 
@@ -83,13 +83,29 @@ As is shown in the previous tables, the data has been impacted by removing the 9
 - Percentage passing Reading dropped **27.64%**
 - Percentage overall passing dropped **25.87**
 
+### Thomas High School’s performance vs the other schools
+
+![After_NaN_School_Summary_DF](https://user-images.githubusercontent.com/98929742/158091145-f04c84ca-1e09-494b-9a10-f24286074a0d.JPG)
+
+As the table shows the Thomas High School has the lowest % Passing in Math, Reading and Overall in all schools in the district:
+
+- Percentage Math passing **66.911315%
+- Percentage Reading passing **69.663609%	
+- Overall Percentage **65.076453%
+
+### By Replacing the Grades
+
+Math and reading scores by grade
+
+![After_Nan_School_Averages_Reading](https://user-images.githubusercontent.com/98929742/158095349-e7ec5e15-d099-44ed-8698-c147cf519e38.JPG) ![After_Nan_School_Averages_Math](https://user-images.githubusercontent.com/98929742/158095358-f49d7407-6efc-4646-81c6-76fda529d54b.JPG)
 
 
 
-The top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score for each grade level from each school
-The average reading score for each grade level from each school
-The scores by school spending per student, by school size, and by school type
+Scores by school spending
+Scores by school size
+Scores by school type
+
+Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
 
