@@ -40,6 +40,34 @@ For this part of the project, the analysis was done by using the loc method, to 
 ![Check_NaN_values_df](https://user-images.githubusercontent.com/98929742/158083087-776af1ac-79d7-420a-9d4e-215a989b4682.JPG)
 
 
+## Deliverable 2
+
+### The district summary
+
+Results including the 9th grade scores
+
+![Before_NaN_School_District_DF](https://user-images.githubusercontent.com/98929742/158087790-f0660e96-0193-4861-ad88-b554cab30642.JPG)
+
+
+Results not including the 9th grade scores
+
+![After_NaN_School_District_DF](https://user-images.githubusercontent.com/98929742/158087825-2926489e-37f6-4e81-bd0e-ae1cd5a11103.JPG)
+
+As is shown from the table, the data from The Thomas High School 9th grade scores for reading and math have a small to none impact on the school district analysis. Meaning that the school district overall analysis is not affected.
+
+Variances:
+
+-
+
+### The school summary
+
+
+
+The top 5 and bottom 5 performing schools, based on the overall passing rate
+The average math score for each grade level from each school
+The average reading score for each grade level from each school
+The scores by school spending per student, by school size, and by school type
+
 
 
 
